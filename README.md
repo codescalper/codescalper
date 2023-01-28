@@ -1,11 +1,11 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1033433422317760552/1055430765648822312/Here_to_Contribute_Learn__Grow_.gif)]
+![MasterHead](https://cdn.discordapp.com/attachments/1033433422317760552/1055430765648822312/Here_to_Contribute_Learn__Grow_.gif)
 
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codescalper&label=Profile%20views&color=0e75b6&style=flat" alt="codescalper" /> </p>
-
+a
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **mayankyt22@gmail.com**
