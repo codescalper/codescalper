@@ -77,5 +77,8 @@
 
 ## My Hashnode Latest Posts 
 <!-- HASHNODE:START -->
-
+- [How to Use HTTP Methods in Express.js for REST APIs](https://mayankonweb.hashnode.dev/how-to-use-http-methods-in-expressjs-for-rest-apis)
+- [Understanding MVC Architecture in Web Development](https://mayankonweb.hashnode.dev/understanding-mvc-architecture-in-web-development)
+- [Mastering Request Body Parsing in Express.js with Body-parser Middleware](https://mayankonweb.hashnode.dev/body-parser-expressjs)
+- [Basic of JavaScript for MERN Stack](https://mayankonweb.hashnode.dev/basic-of-javascript-for-mern-stack)
 <!-- HASHNODE:END -->
