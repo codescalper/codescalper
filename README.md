@@ -77,9 +77,9 @@
 
 ## My Hashnode Latest Posts 
 <!-- HASHNODE:START -->
+- [MongoDB Atlas: The Multi-Cloud Developer Data Platform](https://mayankonweb.hashnode.dev/mongodb-atlas-the-multi-cloud-developer-data-platform)
 - [Token Authentication: An Overview of Sessions and JSON Web Tokens](https://mayankonweb.hashnode.dev/sessionstokens)
 - [React Reconciliation &amp; Virtual DOM : How It Works and Why You Should Care](https://mayankonweb.hashnode.dev/react-reconciliation)
 - [Solving CORS Errors in Express.js](https://mayankonweb.hashnode.dev/cors-error)
 - [How to Use HTTP Methods in Express.js for REST APIs](https://mayankonweb.hashnode.dev/how-to-use-http-methods-in-expressjs-for-rest-apis)
-- [Understanding MVC Architecture in Web Development](https://mayankonweb.hashnode.dev/understanding-mvc-architecture-in-web-development)
 <!-- HASHNODE:END -->
