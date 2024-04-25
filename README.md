@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js. Solana, Graph QL**
 
-- 👨‍💻 All of my projects are available at [mayankonweb.pages.dev](mayankonweb.pages.dev)
+- 👨‍💻 All of my projects are available at [mayank.10xeng.xyz](https://mayank.10xeng.xyz/)
 
 - 📝 I write articles on [https://mayankonweb.hashnode.dev/](https://mayankonweb.hashnode.dev/)
 
