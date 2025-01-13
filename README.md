@@ -75,9 +75,9 @@
 
 ## My Hashnode Latest Posts 
 <!-- HASHNODE:START -->
-- [WTH is Blockchain? Intro to Blockchain Technology](https://mayankonweb.hashnode.dev/wth-is-blockchain-intro-to-blockchain-technology)
-- [MongoDB Atlas: The Multi-Cloud Developer Data Platform](https://mayankonweb.hashnode.dev/mongodb-atlas-the-multi-cloud-developer-data-platform)
-- [Token Authentication: An Overview of Sessions and JSON Web Tokens](https://mayankonweb.hashnode.dev/sessionstokens)
-- [React Reconciliation &amp; Virtual DOM : How It Works and Why You Should Care](https://mayankonweb.hashnode.dev/react-reconciliation)
-- [Solving CORS Errors in Express.js](https://mayankonweb.hashnode.dev/cors-error)
+- [WTH is Blockchain? Intro to Blockchain Technology](https://10xeng.xyz/wth-is-blockchain-intro-to-blockchain-technology)
+- [MongoDB Atlas: The Multi-Cloud Developer Data Platform](https://10xeng.xyz/mongodb-atlas-the-multi-cloud-developer-data-platform)
+- [Token Authentication: An Overview of Sessions and JSON Web Tokens](https://10xeng.xyz/sessionstokens)
+- [React Reconciliation &amp; Virtual DOM : How It Works and Why You Should Care](https://10xeng.xyz/react-reconciliation)
+- [Solving CORS Errors in Express.js](https://10xeng.xyz/cors-error)
 <!-- HASHNODE:END -->
