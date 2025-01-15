@@ -75,9 +75,9 @@
 
 ## My Hashnode Latest Posts 
 <!-- HASHNODE:START -->
+- [Crush the AWS Cloud Practitioner Exam in Just 2 Weeks! 🚀](https://10xeng.xyz/crush-the-aws-cloud-practitioner-exam-in-just-2-weeks)
 - [WTH is Blockchain? Intro to Blockchain Technology](https://10xeng.xyz/wth-is-blockchain-intro-to-blockchain-technology)
 - [MongoDB Atlas: The Multi-Cloud Developer Data Platform](https://10xeng.xyz/mongodb-atlas-the-multi-cloud-developer-data-platform)
 - [Token Authentication: An Overview of Sessions and JSON Web Tokens](https://10xeng.xyz/sessionstokens)
 - [React Reconciliation &amp; Virtual DOM : How It Works and Why You Should Care](https://10xeng.xyz/react-reconciliation)
-- [Solving CORS Errors in Express.js](https://10xeng.xyz/cors-error)
 <!-- HASHNODE:END -->
