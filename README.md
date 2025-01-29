@@ -1,19 +1,19 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1033433422317760552/1055430765648822312/Here_to_Contribute_Learn__Grow_.gif)
 
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my project. I can adapt new programming languages and tools quickly. I also love strumming guitar, reading books, and travelling.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codescalper&label=Profile%20views&color=0e75b6&style=flat" alt="codescalper" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mayanks_tw" target="blank"><img src="https://img.shields.io/twitter/follow/mayanks_tw?logo=twitter&style=for-the-badge" alt="mayanks_tw" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js. Solana, Graph QL**
+## 🌱 Current Learning Goals
 
-- 👨‍💻 All of my projects are available at [mayank.10xeng.xyz](https://mayank.10xeng.xyz/)
-
-- 📝 I write articles on [https://mayankonweb.hashnode.dev/](https://mayankonweb.hashnode.dev/)
-
-- 📫 How to reach me **mayankyt22@gmail.com**
+- Furthering my expertise in DevOps practices and tools
+- Exploring new programming paradigms and languages (Golang on list)
+- Master Kubernetes
+- Start to solve DSA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,9 +36,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"  height="40" alt=""  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -47,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="mssql logo" />      
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -64,7 +66,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
 </div>
 
 ###
@@ -72,6 +74,18 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codescalper&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+## 🔗 Links
+
+- **GitHub:** [siinghd](https://github.com/codescalper)
+- **Linkedin:** [singh](https://linkedin.com/in/mayankonli)
+## **Terraform Certification:** 
+- [Terraform Certification Link](https://www.credly.com/badges/043304c3-deaa-4f8f-9836-a815b1bb60dd/public_url)
+## **AWS Certification:** 
+- [AWS Certified Solutions Architect - Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/849808639a4347d5912d4c34cb61ad2c)
+- [AWS Cloud Practioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/69ce0c1efc3e482a863a85d06171acae)
+
 
 ## My Hashnode Latest Posts 
 <!-- HASHNODE:START -->
